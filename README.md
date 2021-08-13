@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Shimraz
+- 👀 I’m interested in Deep learning, ROS, Machine Learning
+- 🌱 I’m currently learning ROS, computer vision
+- 💞️ I’m looking to collaborate on Deep Learnign based projects
+- 📫 How to reach me mail me at shimrazrs@gmail.com
