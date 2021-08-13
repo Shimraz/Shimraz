@@ -2,4 +2,4 @@
 - 👀 I’m interested in Deep learning, ROS, Machine Learning
 - 🌱 I’m currently learning ROS, computer vision
 - 💞️ I’m looking to collaborate on Deep Learnign based projects
-- 📫 How to reach me mail me at https://www.linkedin.com/in/shimraz/
+- 📫 Have a look at my profile at https://www.linkedin.com/in/shimraz/
